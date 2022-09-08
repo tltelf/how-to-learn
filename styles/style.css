@@ -273,6 +273,8 @@
 .footer__columns {
   display: flex;
   justify-content: space-around;
+  min-height: 250px;
+  padding: 60px 0 40px;
 }
 
 .footer__column_content_copyright {
@@ -289,15 +291,13 @@
 }
 
 .footer__author {
+  margin: 0;
+  padding: 0;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
   color: white;
   margin: 18px 0;
-}
-
-.footer__column {
-  margin: 60px 0 40px;
 }
 
 .footer__column-heading {
