@@ -13,7 +13,6 @@
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
-@import url(../blocks/two-columns/__paragraph/_nth-child/two-columns__paragraph_nth-child_2.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
@@ -47,13 +46,10 @@
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__image/cards__image.css);
 @import url(../blocks/cards/__title/cards__title.css);
-@import url(../blocks/cards/__item/_nth-child/cards__item_nth-child_1.css);
-@import url(../blocks/cards/__item/_nth-child/cards__item_nth-child_3.css);
 @import url(../blocks/cards/__description/cards__description.css);
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
-@import url(../blocks/video/__iframe/_nth-child/video__iframe_nth-child_1.css);
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__container/khan__container.css);
